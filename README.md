@@ -1,2 +1,2 @@
 # TDK
-Ultimate Development Kit for your games.
+Ultimate "Taha Development Kit" for your games that is richened by Service Locator Design Pattern.
